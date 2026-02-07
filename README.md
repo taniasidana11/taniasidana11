@@ -1,4 +1,4 @@
-# Hi, I'm Tania Sidana 👋
+# Hi, I'm Tania👋
 
 🎓 Computer Science Engineering Student
 💻 Full Stack Developer | Java | MERN Stack
